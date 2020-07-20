@@ -23,4 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![](gif_demo.gif)
+<img src="gif_demo.gif" width="50%" height="50%">
